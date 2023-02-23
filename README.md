@@ -1,2 +1,4 @@
 # Alfred-The-Wanted
-A casual game that is programmed with Unity. It's all about  Alfred Ill and how he is running away from bounty hunters.
+Alfred Ill is a charachter from a novel called Lady's Visit it's all about how he is running away from the town hunters who try to kill him.
+A 2D pixelated meme game.
+Credit: Liam
